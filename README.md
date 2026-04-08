@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kumar Gaurav 👋
 
-<!--
-**gauravkashyap-lab/gauravkashyap-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Data Analyst skilled in SQL, Excel, and Python.  
+Focused on solving business problems using data analysis.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- SQL (Joins, CTE, Window Functions)
+- Excel (Pivot Tables, Data Cleaning)
+- Python (Basics)
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+🔹 Pizza Sales Analysis  
+https://github.com/gauravkashyap-lab/pizza-sales-analysis
+
+🔹 E-commerce Sales Analysis (Coming Soon)  
+🔹 Banking Data Analysis (Coming Soon)
+
+## 📫 Connect with me
+LinkedIn: (www.linkedin.com/in/kumar-gaurav62)
+GitHub: https://github.com/gauravkashyap-lab
