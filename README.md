@@ -15,7 +15,7 @@ Focused on solving business problems using data analysis.
 https://github.com/gauravkashyap-lab/pizza-sales-analysis
 
 🔹 E-commerce Sales Analysis ([gauravkashyap-lab/Banking-Data-analysis ](https://github.com/gauravkashyap-lab/ecommerce-sales-analysis))  
-🔹 Banking Data Analysis (gauravkashyap-lab/Banking-Data-analysis )
+🔹 Banking Data Analysis ([gauravkashyap-lab/Banking-Data-analysis ](https://github.com/gauravkashyap-lab/Banking-Data-analysis))
 
 ## 📫 Connect with me
 LinkedIn: (www.linkedin.com/in/kumar-gaurav62)
