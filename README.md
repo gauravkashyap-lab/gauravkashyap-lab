@@ -27,7 +27,8 @@ Passionate about transforming raw data into actionable insights through advanced
 | 03 | [FMCG Sales Analysis](https://github.com/gauravkashyap-lab/FMCGsales-Analysis) | Retail | [View →](https://gauravkashyap-lab.github.io/FMCGsales-Analysis/) |
 | 04 | [Blinkit Sales Analysis](https://github.com/gauravkashyap-lab/Blinkit-Sales-Analysis) | E-Commerce | [View →](https://gauravkashyap-lab.github.io/Blinkit-Sales-Analysis/) |
 | 05 | [Social Media Analysis](https://github.com/gauravkashyap-lab/SocialMedia-Analysis) | Social Media | [View →](https://gauravkashyap-lab.github.io/SocialMedia-Analysis/) |
-| 06 | [Banking Data Analysis](https://github.com/gauravkashyap-lab/Banking-Data-analysis) | Finance | [View →](https://gauravkashyap-lab.github.io/Banking-Data-analysis/) |
+| 06 | Banking Risk & Fraud Analysis | Banking & Finance | [View →](https://github.com/gauravkashyap-lab/Banking-Risk-Transaction-Analysis) | |
+
 | 07 | [Ecommerce Sales Analysis](https://github.com/gauravkashyap-lab/ecommerce-sales-analysis) | E-Commerce | [View →](https://gauravkashyap-lab.github.io/ecommerce-sales-analysis/) |
 | 08 | [Pizza Sales Analysis](https://github.com/gauravkashyap-lab/pizza-sales-analysis) | Food & Beverage | [View →](https://gauravkashyap-lab.github.io/pizza-sales-analysis/) |
 
