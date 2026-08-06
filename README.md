@@ -30,6 +30,7 @@ Passionate about transforming raw data into actionable insights through advanced
 | 06 | Banking Risk & Fraud Analysis | Banking & Finance | [View →](https://github.com/gauravkashyap-lab/Banking-Risk-Transaction-Analysis) | |
 
 | 07 | [Ecommerce Sales Analysis](https://github.com/gauravkashyap-lab/ecommerce-sales-analysis) | E-Commerce | [View →](https://gauravkashyap-lab.github.io/ecommerce-sales-analysis/) |
+
 | 08 | [Pizza Sales Analysis](https://github.com/gauravkashyap-lab/pizza-sales-analysis) | Food & Beverage | [View →](https://gauravkashyap-lab.github.io/pizza-sales-analysis/) |
 
 ---
